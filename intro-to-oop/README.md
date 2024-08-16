@@ -1,4 +1,4 @@
-# Intro to Object Orientated Programming (OOP)
+# Intro to Object Oriented Programming (OOP)
 
 ### Setting intent
 
